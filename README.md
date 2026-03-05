@@ -100,5 +100,3 @@ predict_image(model3, "test_image.jpg")
 
 ## 👤 Author
 Jenish Bhati
-
-Jenish Bhati
